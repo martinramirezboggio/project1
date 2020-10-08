@@ -1,0 +1,16 @@
+## Project 1
+
+Simple Restful API CRUD
+
+Stack:
+- Scala play framework
+- Reactive mongo
+
+
+Functionalities:
+- List posts
+- Create posts
+- Read post
+- update post
+- delete (destroy) post
+  
